@@ -1,0 +1,1 @@
+D:/databaseDev/pgsql16/bin/postgres.exe "-D" ".devdb" "-p" "55432" "-c" "listen_addresses=127.0.0.1"

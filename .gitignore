@@ -1,0 +1,13 @@
+target/
+*.iml
+.idea/
+.vscode/
+*.log
+.DS_Store
+.devdb
+
+
+frontend/node_modules/
+frontend/dist/
+frontend/.npm-cache/
+frontend/.vite/
